@@ -9,12 +9,12 @@ The person enitty is author of article entity.
 
 | Source Entity Class |        
 | ------------- |
-| Person         | 
+| [Person](class_person.md)         | 
 
 
 | Target Entity Class |        
 | ------------- |
-| Article, Book        | 
+| [Article](class_article.md)  | 
 
 ```
 lovely code example 
