@@ -9,9 +9,9 @@ Relations
 
 | Relation  | Definition |
 | ------------- | ------------- |
-| [isFundedBy](isFundedBy.md) | The person enitty is funded by an organization entity | 
-| [isAffiliatedWith](isAffiliatedWith.md) | The person enitty is affiliated with organization entity.|
-| [isAuthorOf](isAuthorOf.md) | The person enitty is author of article entity | 
+| [isFundedBy](isFundedBy.md) | The person entity is funded by an organization entity | 
+| [isAffiliatedWith](isAffiliatedWith.md) | The person entity is affiliated with organization entity.|
+| [isAuthorOf](isAuthorOf.md) | The person entity is author of article entity | 
       
 
 Attributes
