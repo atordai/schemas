@@ -1,0 +1,22 @@
+ 
+Grant Award
+======
+
+Entities of type grant award [http://schema.graph.elsevier.com/types/Person](http://schema.graph.elsevier.com/types/GrantAward)
+
+Relations
+======
+
+| Relation  | Definition |
+| ------------- | ------------- |
+| [isawardedTo](isAwardedTo.md) | THe grant award is awarded to a Person | 
+| [isFundedAward](isAffiliatedWith.md) | The grant award is funded by an Organization |
+      
+
+Attributes
+======
+
+| Attribute | Defintion  |    
+| ------------- | ------------- |
+| [title](title.md) | The title of the award.  
+| [amount](amount.md)| The amount of money awarded. 	 
