@@ -1,6 +1,6 @@
-# givenName 
+# alternateName 
 
-The given name for the entity.   
+The alternate name for the entity.   
 
 | Expected Value |        
 | ------------- |
@@ -9,7 +9,7 @@ The given name for the entity.
 
 | Associated Entity Types |        
 | ------------- |
-| [Person](class_person.md)  | 
+| [Organization](class_organization.md)         | 
 
 
 ```
