@@ -9,7 +9,7 @@ The preferred name for the entity.
 
 | Associated Entity Types |        
 | ------------- |
-| Person         | 
+| [Person](class_person.md) | 
 
 
 ```

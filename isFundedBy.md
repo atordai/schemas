@@ -9,12 +9,12 @@ The relation between a funding entity (typically an Organisation) and the entity
 
 | Source Entity Class |        
 | ------------- |
-| Person         | 
+| [Person](class_person.md)         | 
 
 
 | Target Entity Class |        
 | ------------- |
-| Organisation         | 
+| [Orgainzation](class_organization.md)         | 
 
 ```
 lovely code example 
