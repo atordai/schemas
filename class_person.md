@@ -17,14 +17,14 @@ Relations
 Attributes
 ======
 
-| Attribute | Defintion |        
-| ------------- |        | 
-| [preferredName](preferredname.md) | The preferred name for the entity. | 
-| [givenName](givenName.md)| The given name of a person. | 
-| [familyName](familyName.md) | The family name of a person.|	 
+| Attribute | Defintion  |    
+| ------------- | ------------- |
+| [preferredName](preferredname.md) | The preferred name for the entity.  
+| [givenName](givenName.md)| The given name of a person. 
+| [familyName](familyName.md) | The family name of a person. 	 
 
 
-First Header | Second Header
+Attribute | Defintion  
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
