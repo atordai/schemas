@@ -17,5 +17,5 @@ Attributes
 
 | Attribute | Defintion  |    
 | ------------- | ------------- |
-| title | The title of the articl. | 
+| title | The title of the article. | 
 	 
